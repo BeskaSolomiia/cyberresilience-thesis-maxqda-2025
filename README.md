@@ -35,7 +35,7 @@ The visual diagram included here illustrates the causal sequence from cyber shoc
 
 If you use or refer to this material, please cite as:
 
-> Beska, Solomiia. 2025. *Cyber Resilience under Fire: Ukraine's Adaptive Response to Hybrid Warfare*. MA Thesis, Central European University.
+> Beska, Solomiia. 2025. *Cyber Resilience in Ukraine: Measuring Response to Cyber Threats in the Context of Hybrid Warfare *. MA Thesis, Central European University.
 
 ---
 
