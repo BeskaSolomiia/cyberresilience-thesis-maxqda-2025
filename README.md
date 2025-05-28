@@ -2,7 +2,7 @@
 
 This repository contains the empirical materials, visual model, and coding schema used in the MA thesis:
 
-**Title:** *Cyber Resilience under Fire: Ukraine's Adaptive Response to Hybrid Warfare*  
+**Title:** *Cyber Resilience in Ukraine: Measuring Response to Cyber Threats in the Context of Hybrid Warfare*  
 **Author:** Solomiia Beska  
 **Institution:** Central European University (CEU), Department of International Relations  
 **Year:** 2025
